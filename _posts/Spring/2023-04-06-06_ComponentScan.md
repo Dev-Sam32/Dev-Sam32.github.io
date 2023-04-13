@@ -3,9 +3,9 @@ title:  "[23/04/06] Inflearn_SpringCoreBasic 컴포넌트 스캔"
 excerpt: ""
 
 categories:
-  - TIL
+  - Spring
 tags:
-  - [TIL, Spring]
+  - [Inflearn]
 
 toc: true
 toc_sticky: true

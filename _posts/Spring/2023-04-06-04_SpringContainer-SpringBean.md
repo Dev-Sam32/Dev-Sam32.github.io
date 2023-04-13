@@ -3,9 +3,9 @@ title:  "[23/04/06] Inflearn_SpringCoreBasic 스프링 컨테이너와 스프링
 excerpt: ""
 
 categories:
-  - TIL
+  - Spring
 tags:
-  - [TIL, Spring]
+  - [Inflearn]
 
 toc: true
 toc_sticky: true
