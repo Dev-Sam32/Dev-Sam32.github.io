@@ -58,6 +58,6 @@ last_modified_at: 2023-04-13
 
 ---
 ### 참고
-[링크1](http://www.tcpschool.com/codingmath/common) <br>
-[링크2](https://mathbang.net/202#gsc.tab=0) <br>
-[링크3](https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%ED%98%B8%EC%A0%9C%EB%B2%95)
+http://www.tcpschool.com/codingmath/common <br>
+https://mathbang.net/202#gsc.tab=0 <br>
+[Wikipedia_유클리드_호제법](https://ko.wikipedia.org/wiki/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%ED%98%B8%EC%A0%9C%EB%B2%95)
